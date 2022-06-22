@@ -1,11 +1,8 @@
-Hello! :wave: I'm Vlad!
-========================================================
-:mortar_board: I am studying to be a tester 
---------------------------------------------------------
-:computer: And can show to you my progress
---------------------------------------------------------
-:wink: Welcome! 
---------------------------------------------------------
+# Hello! :wave: I'm Vlad! #
+
+### :mortar_board: I am studying to be a tester ### 
+### :computer: And can show to you my progress ###
+### :point_down: Click on the links ### 
 
 ![72f4a2_3f61545246c94517960fd62361471611_mv2](https://user-images.githubusercontent.com/101735229/174901560-44999e1b-c46d-47c2-a02b-7f6a44ec75c4.gif)
 
